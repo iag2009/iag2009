@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-# https://tapajyoti-bose.medium.com/beautify-your-github-profile-like-a-pro-2f7922895953
+
+
+
+<!-- https://tapajyoti-bose.medium.com/beautify-your-github-profile-like-a-pro-2f7922895953 -->
